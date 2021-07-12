@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Book Search
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This app uses `http://nyx.vima.ekt.gr:3000/api/books` api to fetch paginated list of books.
+
+Pagination state is reflected in the URL and user will be shown the same page on refresh.
+
+User can also filter the list by entering search terms in a search box.
+
+Test cases are present in `App.test.tsx` file.
+
+## Pending task
+
+Reflect and preserve the search terms in the url, same as the page number.
 
 ## Available Scripts
 
