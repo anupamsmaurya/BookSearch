@@ -12,7 +12,8 @@ Test cases are present in `App.test.tsx` file.
 
 ## Pending task
 
-Reflect and preserve the search terms in the url, same as the page number.
+* Reflect and preserve the search terms in the url, same as the page number.
+* Error handling state.
 
 ## Available Scripts
 
